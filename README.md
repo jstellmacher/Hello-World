@@ -1,2 +1,2 @@
-# Main for Hello-World
+# Python for Hello-World
 I am learning about how GitHub works!
